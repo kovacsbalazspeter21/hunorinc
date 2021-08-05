@@ -1,1 +1,1 @@
-# hunorinc
+# Hunor-Star-Studio

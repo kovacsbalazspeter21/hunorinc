@@ -78,3 +78,7 @@ body {
     width: 980px;
     background-image: url(neon_waves_2.jpg);
   }
+
+dir {
+    text-align: center;
+}

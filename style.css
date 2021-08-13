@@ -60,6 +60,8 @@ body {
     font-size: 18px;
     font: Bold;
     width: 500px;
+    border: none;
+    margin: 20px;
   }
   
 

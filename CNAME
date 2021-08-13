@@ -1,4 +1,4 @@
-www.hunorinc.com
+# www.hunorinc.com
 
 $ dig WWW.HUNORINC.COM +nostats +nocomments +nocmd
     > ;WWW.EXAMPLE.COM.                     IN      A

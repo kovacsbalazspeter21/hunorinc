@@ -78,12 +78,13 @@ body {
   #gomb_egy {
     width: 50px;
     background-image: url(image.jfif);
-
+    text-align: center;
   }
 
   #masodik_gomb {
     width: 980px;
     background-image: url(neon_waves_2.jpg);
+    text-align: center;
   }
 
   dir {

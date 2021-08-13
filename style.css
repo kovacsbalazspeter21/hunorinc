@@ -56,7 +56,8 @@ body {
   }
 
   #szoveg {
-    text-align: left;
+    text-align: center;
+    font-family: Arial, Impact, 'Italic', sans-serif;
     font-size: 18px;
     font: Bold;
     width: 500px;

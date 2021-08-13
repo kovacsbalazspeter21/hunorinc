@@ -15,6 +15,11 @@ head {
     width: 30px;
 }
 
+#store {
+    text-align: right;
+    width: 30px;
+}
+
 body {
     background-image: url(neon_waves_2.jpg);
   }
@@ -81,9 +86,11 @@ body {
     background-image: url(neon_waves_2.jpg);
   }
 
-dir {
+  dir {
     text-align: center;
-}
-div {
+  }
+  
+  div {
     text-align: center;
-}
+  }
+
